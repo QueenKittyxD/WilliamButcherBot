@@ -28,7 +28,7 @@
 
 <p align="center">
     A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
-    <a href="http://t.me/MAO_CHAN_BOT"> MaoChanBot </a> | 
+    <a href="http://t.me/MaoChanRobot"> MaoChanRobot </a> | 
     <a href="https://t.me/BoooxD"> BoooxD </a>
 </p>
 
